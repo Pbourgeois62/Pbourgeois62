@@ -45,7 +45,7 @@ Voici un aperçu des outils et technologies que j'utilise :
 Voici un aperçu de ce sur quoi j'ai travaillé ou ce qui me tient à cœur :
 
 * **Adopte un pote** : Une plateforme web centrée sur les liens humains, développée avec Symfony 7.2, Tailwind CSS et Flowbite. Lien du site: https://adopte-un-pote.philippe-bourgeois.fr/
-* **proxi-pat** : Une application de gestion de centre de loisirs pour parents, directeurs de centres et administrateurs
+* **proxi-pat** : Une application de gestion de centre de loisirs pour parents, directeurs de centres et administrateurs.  Lien du site: https://pat.proxiservices.org/
 
 N'hésitez pas à jeter un œil à mes dépôts pour voir le code !
 
