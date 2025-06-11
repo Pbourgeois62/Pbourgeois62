@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Développeur [Symfony]
+### 🚀 Développeur Symfony
 
 Bienvenue sur mon petit coin du web où je partage mes explorations, mes apprentissages et mes projets de code !
 
@@ -16,10 +16,7 @@ Je suis un développeur passionné par la création de solutions robustes et él
 
 Je suis toujours en quête de nouvelles connaissances et de défis stimulants. En ce moment, je me plonge dans :
 
-* **[Insère ta première compétence ou technologie ici, ex: Le machine learning avec Python]**
-* **[Insère ta deuxième compétence ou technologie ici, ex: Les architectures microservices]**
-* **[Insère ta troisième compétence ou technologie ici, ex: L'optimisation des performances SQL]**
-
+* **Vue.js**
 ---
 
 ### 💼 Mes compétences
@@ -56,7 +53,7 @@ N'hésitez pas à jeter un œil à mes dépôts pour voir le code !
 Je suis toujours ouvert aux nouvelles opportunités, aux collaborations ou simplement pour échanger sur le développement.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-bourgeois-76662723b/)
-[![Portfolio](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]((https://philippe-bourgeois.fr/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://philippe-bourgeois.fr/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.pbourgeois62200@gmail.com)
 
 ---
