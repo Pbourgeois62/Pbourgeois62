@@ -1,4 +1,4 @@
-# 👋 Philippe Bourgeois | Développeur Symfony & Fullstack
+# 👋 Philippe Bourgeois | Développeur Symfony
 
 Bienvenue sur mon petit coin du web où je partage mes explorations, mes apprentissages et mes projets de code !
 
