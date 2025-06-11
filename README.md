@@ -14,10 +14,7 @@ Je suis un développeur passionné par la création de solutions robustes et él
 
 ### 🌱 Ce que j'apprends actuellement
 
-Je suis toujours en quête de nouvelles connaissances et de défis stimulants. En ce moment, je me plonge dans :
-
-* **Vue.js**
----
+Je suis toujours en quête de nouvelles connaissances et de défis stimulants. En ce moment, je me plonge dans **Vue.js** et j'approfondis mes connaissances en Symfony.
 
 ### 💼 Mes compétences
 
@@ -53,7 +50,7 @@ N'hésitez pas à jeter un œil à mes dépôts pour voir le code !
 Je suis toujours ouvert aux nouvelles opportunités, aux collaborations ou simplement pour échanger sur le développement.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-bourgeois-76662723b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://philippe-bourgeois.fr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://philippe-bourgeois.fr/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.pbourgeois62200@gmail.com)
 
 ---
