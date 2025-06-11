@@ -27,16 +27,16 @@ Je suis toujours en quête de nouvelles connaissances et de défis stimulants. E
 Voici un aperçu des outils et technologies que j'utilise :
 
 **Langages de programmation :**
-`PHP` `JavaScript` `HTML` `CSS` `SQL` `[Autres, ex: Python]`
+`PHP` `JavaScript` `HTML` `CSS` `SQL`
 
 **Frameworks & Librairies :**
-`Symfony` `React` `[Autres, ex: Vue.js, Node.js, jQuery]`
+`Symfony`
 
 **Bases de données :**
-`MySQL` `PostgreSQL` `[Autres, ex: MongoDB]`
+`MySQL` `PostgreSQL`
 
 **Outils & Plateformes :**
-`Git` `Docker` `Linux` `VS Code` `[Autres, ex: AWS, CI/CD]`
+`Git` `Docker` `Linux` `VS Code`
 
 ---
 
@@ -44,9 +44,8 @@ Voici un aperçu des outils et technologies que j'utilise :
 
 Voici un aperçu de ce sur quoi j'ai travaillé ou ce qui me tient à cœur :
 
-* **[Nom du projet 1]** : [Courte description du projet, ex: Une application de gestion de stock pour petites entreprises.]
-* **[Nom du projet 2]** : [Courte description du projet, ex: Un site e-commerce de démonstration construit avec Symfony et React.]
-* **[Nom du projet 3]** : [Courte description du projet, ex: Un script Python pour l'automatisation de tâches.]
+* **Adopte un pote** : Une plateforme web centrée sur les liens humains, développée avec Symfony 7.2, Tailwind CSS et Flowbite. Lien du site: https://adopte-un-pote.philippe-bourgeois.fr/
+* **proxi-pat** : Une application de gestion de centre de loisirs pour parents, directeurs de centres et administrateurs
 
 N'hésitez pas à jeter un œil à mes dépôts pour voir le code !
 
@@ -56,9 +55,9 @@ N'hésitez pas à jeter un œil à mes dépôts pour voir le code !
 
 Je suis toujours ouvert aux nouvelles opportunités, aux collaborations ou simplement pour échanger sur le développement.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Lien vers ton profil LinkedIn])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Lien vers ton profil Twitter, si tu en as un])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-bourgeois-76662723b/)
+[![Portfolio](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]((https://philippe-bourgeois.fr/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.pbourgeois62200@gmail.com)
 
 ---
 
