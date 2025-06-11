@@ -1,10 +1,10 @@
 
 
-# 👋 Salut ! Je suis Pierre (Pbourgeois62)
+# 👋 Bonjour, je m'appelle Philippe Bourgeois
 
 ---
 
-### 🚀 Développeur [mentionne tes technologies préférées, ex: Fullstack, PHP/Symfony]
+### 🚀 Développeur [Symfony]
 
 Bienvenue sur mon petit coin du web où je partage mes explorations, mes apprentissages et mes projets de code !
 
