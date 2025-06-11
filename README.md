@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBkN45fCg24A8sR/giphy.gif" width="100"/>
-</div>
+
 
 # 👋 Salut ! Je suis Pierre (Pbourgeois62)
 
