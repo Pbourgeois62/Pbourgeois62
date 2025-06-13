@@ -41,7 +41,10 @@ Découvrez quelques-unes de mes réalisations, où j'ai pu mettre mes compétenc
 * **Adopte un pote** : Une plateforme web innovante dédiée à la **mise en relation et à l'entraide communautaire**. Développée avec **Symfony 7.2**, **Tailwind CSS** et **Flowbite**, elle offre un espace simple et bienveillant pour le partage de temps, de compétences ou de services solidaires.
     * [**Voir le site**](https://adopte-un-pote.philippe-bourgeois.fr/)
 
-* **proxi-pat** : Une **application de gestion complète pour les centres de loisirs**. Cette solution intuitive simplifie l'inscription et le suivi des enfants, offrant des interfaces dédiées aux parents, aux directeurs de centre et aux administrateurs pour une coordination fluide et un suivi efficace.
+* **proxi-pat** : Une **application de gestion complète pour les centres de loisirs**. Conçue pour répondre aux besoins spécifiques du métier, Fourneo vise à simplifier l'organisation quotidienne d'un artisan. Le premier module en cours de développement permet la création et le suivi d’événements de vente (marchés, commandes groupées, etc.).
+    * [**Voir le repository**]([https://pat.proxiservices.org/](https://github.com/Pbourgeois62/Fourneo))
+
+* **Fourneo - [WIP]** : Une **Une application de gestion dédiée aux artisans boulangers et pâtissiers**. Cette application à pour vocation de couvrir et simplifier tous les besoins d'un artisant boulanger. Le premier module en cours de développement, la possibilité de créer des événements de vente et d'en faire un suivi!
     * [**Voir le site**](https://pat.proxiservices.org/)
 
 N'hésitez pas à explorer les dépôts de ces projets pour une immersion complète dans le code !
