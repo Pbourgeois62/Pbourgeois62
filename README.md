@@ -42,10 +42,11 @@ Découvrez quelques-unes de mes réalisations, où j'ai pu mettre mes compétenc
     * [**Voir le site**](https://adopte-un-pote.philippe-bourgeois.fr/)
 
 * **proxi-pat** : Une **application de gestion complète pour les centres de loisirs**. Conçue pour répondre aux besoins spécifiques du métier, Fourneo vise à simplifier l'organisation quotidienne d'un artisan. Le premier module en cours de développement permet la création et le suivi d’événements de vente (marchés, commandes groupées, etc.).
-    * [**Voir le repository**]([https://pat.proxiservices.org/](https://github.com/Pbourgeois62/Fourneo))
+    * [**Voir le site**](https://pat.proxiservices.org/)
 
 * **Fourneo - [WIP]** : Une **Une application de gestion dédiée aux artisans boulangers et pâtissiers**. Cette application à pour vocation de couvrir et simplifier tous les besoins d'un artisant boulanger. Le premier module en cours de développement, la possibilité de créer des événements de vente et d'en faire un suivi!
-    * [**Voir le site**](https://pat.proxiservices.org/)
+    
+    * [**Voir le repository**](https://github.com/Pbourgeois62/Fourneo))
 
 N'hésitez pas à explorer les dépôts de ces projets pour une immersion complète dans le code !
 
