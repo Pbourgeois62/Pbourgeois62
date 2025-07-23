@@ -38,7 +38,7 @@ Voici un aperçu des technologies et outils qui composent ma boîte à outils, m
 
 Découvrez quelques-unes de mes réalisations, où j'ai pu mettre mes compétences au service de projets concrets et significatifs :
 
-* **Adopte un pote** : Une plateforme web innovante dédiée à la **mise en relation et à l'entraide communautaire**. Développée avec **Symfony 7.2**, **Tailwind CSS** et **Flowbite**, elle offre un espace simple et bienveillant pour le partage de temps, de compétences ou de services solidaires.
+* **Adopte un pote - [WIP]** : Une plateforme web innovante dédiée à la **mise en relation et à l'entraide communautaire**. Développée avec **Symfony 7.2**, **Tailwind CSS** et **Flowbite**, elle offre un espace simple et bienveillant pour le partage de temps, de compétences ou de services solidaires.
     * [**Voir le site**](https://adopte-un-pote.philippe-bourgeois.fr/)
 
 * **proxi-pat** : Une **application de gestion complète pour les centres de loisirs**. Conçue pour répondre aux besoins spécifiques du métier, Fourneo vise à simplifier l'organisation quotidienne d'un artisan. Le premier module en cours de développement permet la création et le suivi d’événements de vente (marchés, commandes groupées, etc.).
