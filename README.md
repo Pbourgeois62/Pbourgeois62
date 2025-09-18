@@ -16,7 +16,7 @@ Je suis toujours en quête de nouvelles connaissances et de défis stimulants. E
 
 ---
 
-### 🛠️ Mes compétences
+### 🛠️ Mes technos
 
 Voici un aperçu des technologies et outils qui composent ma boîte à outils, me permettant de donner vie à mes projets :
 
@@ -34,7 +34,7 @@ Voici un aperçu des technologies et outils qui composent ma boîte à outils, m
 
 ---
 
-### ✨ Projets Phares & Réalisations Notables
+### ✨ Mes Projets 
 
 Découvrez quelques-unes de mes réalisations, où j'ai pu mettre mes compétences au service de projets concrets et significatifs :
 
@@ -47,14 +47,15 @@ Découvrez quelques-unes de mes réalisations, où j'ai pu mettre mes compétenc
 * **Fourneo - [WIP]** : Une **Une application de gestion dédiée aux artisans boulangers et pâtissiers**. Cette application à pour vocation de couvrir et simplifier tous les besoins d'un artisan boulanger.
     
     * [**Voir le repository**](https://github.com/Pbourgeois62/Fourneo)
-
-N'hésitez pas à explorer les dépôts de ces projets pour une immersion complète dans le code !
+ 
+* **Lannify** :Lannify est une application web ludique permettant d’organiser facilement des LANs entre amis. Développée avec Symfony, Tailwind CSS et PostgreSQL, elle centralise la gestion des participants, la planification des activités et la création d’événements.
+    * [**Voir le site**](https://lannify.philippe-bourgeois.fr)
 
 ---
 
 ### 🤝 Établissons un Contact !
 
-Je suis toujours ravi d'échanger sur le développement web, d'explorer de nouvelles opportunités professionnelles ou de collaborer sur des projets stimulants. N'hésitez pas à me contacter ou à me suivre sur les plateformes ci-dessous :
+Je suis toujours ravi d'échanger sur le développement web, d'explorer de nouvelles opportunités professionnelles ou de collaborer sur des projets stimulants. N'hésitez pas à me contacter !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-bourgeois-76662723b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://philippe-bourgeois.fr/)
